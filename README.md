@@ -1,2 +1,11 @@
-# js-calculator
-A simple web-based calculator built using HTML, CSS, and JavaScript with basic arithmetic operations and a responsive design.
+# JavaScript Calculator
+
+A simple web-based calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Addition, Subtraction, Multiplication, Division
+- Clear and Reset buttons
+- Responsive design
+
+## How to Run
+Open `index.html` in your browser.
